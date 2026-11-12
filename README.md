@@ -15,6 +15,7 @@ MPL 组件在所链接版本的对应源码、构建脚本、补丁与编译配�
 
 | Version | Release | Contents |
 |---|---|---|
+| 1.0.3 (10) | [`1.0.3-build10`](../../releases/tag/1.0.3-build10) | iOS / iPadOS (root) and tvOS (`tvos/`) |
 | 1.0.2 (9) | [`1.0.2-build9`](../../releases/tag/1.0.2-build9) | iOS / iPadOS (root) and tvOS (`tvos/`) |
 | 1.0.0 (5) | [`1.0.0-build5`](../../releases/tag/1.0.0-build5) | iOS / iPadOS (root) and tvOS (`tvos/`) |
 
